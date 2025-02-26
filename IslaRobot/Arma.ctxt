@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arma
+comment1.params=nombreDelArma
+comment1.target=Arma(java.lang.String)
+comment2.params=isla\ cordenadaActual
+comment2.target=void\ disparar(Isla,\ Posicion)
+numComments=3

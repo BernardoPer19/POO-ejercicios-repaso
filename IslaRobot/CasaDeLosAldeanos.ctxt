@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CasaDeLosAldeanos
+comment1.params=posHospital
+comment1.target=CasaDeLosAldeanos(Posicion)
+comment2.params=nuevoAldeano
+comment2.target=boolean\ anadirAldeano(Normales)
+comment3.params=pos
+comment3.target=void\ eliminarAldeano(int)
+comment4.params=
+comment4.target=void\ mostrarAldeanitos()
+comment5.params=
+comment5.target=int\ obtenerCantidadAldenitos()
+comment6.params=
+comment6.target=Posicion\ getPosicion()
+numComments=7

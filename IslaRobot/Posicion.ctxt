@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Posicion
+comment1.params=
+comment1.target=Posicion()
+comment2.params=x\ y
+comment2.target=Posicion(int,\ int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=java.lang.String\ obtenerCoordenadasDeLosRobot()
+comment6.params=x
+comment6.target=void\ setX(int)
+comment7.params=y
+comment7.target=void\ setY(int)
+numComments=8

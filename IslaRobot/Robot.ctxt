@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=id\ edad\ nombre\ estado
+comment1.target=Robot(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Posicion\ getCordenadaR()
+comment3.params=
+comment3.target=boolean\ isMuerto()
+comment4.params=
+comment4.target=int\ getVida()
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=isla
+comment6.target=java.lang.String\ obtenerAreaTrabjo(Isla)
+comment7.params=isla\ deltaX\ deltaY
+comment7.target=void\ mover(Isla,\ int,\ int)
+comment8.params=
+comment8.target=void\ morir()
+comment9.params=
+comment9.target=java.lang.String\ mostrarDatos()
+numComments=10

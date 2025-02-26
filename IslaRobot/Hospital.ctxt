@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hospital
+comment1.params=posHospital
+comment1.target=Hospital(Posicion)
+comment2.params=nuevoMedi
+comment2.target=boolean\ anadirMedicos(Medicos)
+comment3.params=pos
+comment3.target=void\ eliminarMedicos(int)
+comment4.params=
+comment4.target=void\ mostrarMedicos()
+comment5.params=
+comment5.target=int\ obtenerCantidadMedicos()
+comment6.params=
+comment6.target=Posicion\ getPosicion()
+numComments=7

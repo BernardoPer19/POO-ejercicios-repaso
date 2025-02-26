@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mochila
+comment1.params=capacidad
+comment1.target=Mochila(int)
+comment2.params=nuevoItem
+comment2.target=boolean\ anadirItems(Items)
+comment3.params=pos
+comment3.target=void\ eliminarItems(int)
+comment4.params=
+comment4.target=void\ mostrarItems()
+comment5.params=
+comment5.target=int\ obtenerCantidadItems()
+comment6.params=
+comment6.target=int\ obtenerCapacidad()
+numComments=7

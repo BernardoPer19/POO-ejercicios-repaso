@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Isla
+comment1.params=limiteX\ limiteY
+comment1.target=Isla(int,\ int)
+comment2.params=
+comment2.target=int\ getLimiteX()
+comment3.params=
+comment3.target=int\ getLimiteY()
+comment4.params=posicion
+comment4.target=java.lang.String\ determinarArea(Posicion)
+numComments=5
