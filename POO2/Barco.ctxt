@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Barco
+comment1.params=nombre\ tripulacion
+comment1.target=Barco(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=int\ CantTripulacion()
+numComments=4

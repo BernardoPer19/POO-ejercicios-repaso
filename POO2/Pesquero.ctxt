@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pesquero
+comment1.params=nombre\ tripulacion
+comment1.target=Pesquero(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ pescar()
+comment3.params=
+comment3.target=int\ getCantidadAlmacen()
+numComments=4
