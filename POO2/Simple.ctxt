@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Simple
+comment1.params=name\ cost\ distance
+comment1.target=Simple(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ cast()
+numComments=3

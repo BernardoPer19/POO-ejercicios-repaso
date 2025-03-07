@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Spell
+comment1.params=name\ cost
+comment1.target=Spell(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ cast()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CuidadoAnimal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CuidadoAnimal\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=animal\ ganaderia
+comment1.target=java.lang.String\ alimentarAnimal(Animal,\ Ganaderia)
+comment2.params=ganaderia
+comment2.target=java.lang.String\ cuidarAnimal(Ganaderia)
+numComments=3

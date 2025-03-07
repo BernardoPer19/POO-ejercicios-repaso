@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ganaderia
+comment1.params=cant_agua\ alimiento\ cuidados
+comment1.target=Ganaderia(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ vender()
+comment3.params=
+comment3.target=double\ comprar()
+comment4.params=
+comment4.target=int\ getAgua()
+comment5.params=nuevoAlimento
+comment5.target=void\ setAlimento(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getAlimento()
+comment7.params=
+comment7.target=java.lang.String\ getCuidados()
+numComments=8

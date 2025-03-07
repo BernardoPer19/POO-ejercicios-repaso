@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Advanced
+comment1.params=name\ cost\ damage
+comment1.target=Advanced(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ cast()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cultivo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cultivo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cant_agua\ alimiento\ cuidados
+comment1.target=Cultivo(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ vender()
+comment3.params=
+comment3.target=double\ comprar()
+comment4.params=
+comment4.target=int\ getAgua()
+numComments=5

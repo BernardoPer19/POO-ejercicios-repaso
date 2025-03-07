@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=peso\ tamano\ anos_vida
+comment1.target=Animal(double,\ double,\ int)
+comment2.params=ganaderia
+comment2.target=java.lang.String\ comer(Ganaderia)
+comment3.params=ganaderia
+comment3.target=int\ tomar(Ganaderia)
+numComments=4
